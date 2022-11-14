@@ -10,3 +10,7 @@ for c in range(1, 7):
         cont += 1
 print('Você informou {} números pares e a soma dos números pares é {}'.format(cont, soma))
 
+# Função perfeita para resolver equações, adaptando-a. 
+
+
+
